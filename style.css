@@ -1,0 +1,134 @@
+.main{
+    display: flex;
+    flex-direction: column;
+}
+
+.sec1{
+    display: flex;
+    height: 500px;
+    width: auto;
+    border: 1px solid blue;
+    background-color: #1F2937;
+    flex-direction: column;
+}
+
+.sec11{
+  display: flex;
+  height: 60px;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.sec12{
+  color: #F9FAF8;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin-top: 7em;
+
+}
+.sec12box{
+    display: flex;
+    height: 14em;  
+    width: 20em;
+    border: 1px solid black;
+    margin: 1em;
+    background-color: grey;
+
+}
+button{
+    background-color: #3882F6;
+    color: #E5E7EB;
+    padding: 1em;
+    width: 100px;
+}
+.headerlogo{
+  color: #F9FAF8;
+  font-size: 24px;
+}
+
+.hlinkclass{
+    display: flex;
+    color:#E5E7EB;
+    font-size: 18px;
+}
+
+
+
+.sec2{
+  display: flex;
+  height: 300px;  
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+  
+}
+.sec2box{
+    display: flex;
+    height: 100px;  
+    width: 100px;
+    border: 1px solid black;
+}
+.sec2title{
+    display: flex;
+    justify-content: center;
+}
+.contents{
+    display: flex;    
+    justify-content: space-evenly;
+}
+
+.box-info{
+    display: flex;
+    width: 180px;
+    flex-direction: column;
+    
+}
+
+.sec3{
+    display: flex;
+    height: 300px;  
+    
+    flex-direction: column;
+    background-color: #E5E7EB;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .sec4{
+    display: flex;
+    height: 250px;  
+    
+    align-items: center;
+    justify-content: center;
+    color: #F9FAF8;
+    
+  } 
+
+  .sec5{
+    display: flex;
+    height: 50px;  
+    
+    align-items: center;
+    justify-content: center;
+    background-color: #1F2937;
+    color: #E5E7EB;
+  }
+
+  .box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 900px;
+    height: 120px;
+    border: 1px solid black;
+    background-color: #3882F6;
+    justify-content: space-around;
+
+  }
+
+  .sec4button{
+    border: #E5E7EB;
+    width: 40px;
+  }
+  
