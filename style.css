@@ -142,3 +142,8 @@ button{
   border-radius: 8px;
   }
   
+  .sec3name{
+    display: flex;
+    align-self: flex-end;
+    padding-right: 90px;
+  }
