@@ -38,11 +38,12 @@
 
 }
 button{
-  background: royalblue;
-  border: 1px solid royalblue;
+  background-color: #3882F6;
+  border: 1px solid;
   color: white;
   padding: 8px 16px;
   border-radius: 8px;
+  border-color: white;
 }
 .headerlogo{
   color: #F9FAF8;
@@ -135,8 +136,7 @@ button{
   }
 
   .sec4button{
-    background: royalblue;
-  border: 1px solid royalblue;
+  border: 1px solid;
   color: white;
   padding: 8px 16px;
   border-radius: 8px;
